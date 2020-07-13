@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Trial 2D",
+"productVersion": "1.0",
+"dataUrl": "crazy_bike.data.unityweb",
+"wasmCodeUrl": "crazy_bike.wasm.code.unityweb",
+"wasmFrameworkUrl": "crazy_bike.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
